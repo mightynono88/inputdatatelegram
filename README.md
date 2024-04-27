@@ -10,3 +10,10 @@ function setWebhook() {
 var url = telegramUrl + "/setWebhook?url=" + WebAppUrl;
 var response = UrlFetchApp.fetch(url);
 }
+
+//persiapan pengiriman data
+function sendText(id,text) {
+  var url = telegramUrl + "/sendMessage?chat_id=" + id + "&text=" + encodeURIComponent(text);
+  var response = UrlFetchApp.fetch(url);
+  Logger.log(response.getContentText());
+}
