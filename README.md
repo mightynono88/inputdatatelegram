@@ -17,3 +17,4 @@ function sendText(id,text) {
   var response = UrlFetchApp.fetch(url);
   Logger.log(response.getContentText());
 }
+BELUM TAU ISI APA
