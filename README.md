@@ -18,3 +18,4 @@ function sendText(id,text) {
   Logger.log(response.getContentText());
 }
 BELUM TAU ISI APA
+mencoba lagi
