@@ -19,3 +19,6 @@ function sendText(id,text) {
 }
 BELUM TAU ISI APA
 mencoba lagi
+mencoba lagi
+mencoba lagi
+mencoba lagi
