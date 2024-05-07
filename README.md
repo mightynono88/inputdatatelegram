@@ -16,21 +16,6 @@ function sendText(id,text) {
   var url = telegramUrl + "/sendMessage?chat_id=" + id + "&text=" + encodeURIComponent(text);
   var response = UrlFetchApp.fetch(url);
   Logger.log(response.getContentText());
-}
-BELUM TAU ISI APA
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
-mencoba lagi
+}menocba lagi
 mencoba lagi
 
