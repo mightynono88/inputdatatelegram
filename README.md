@@ -18,5 +18,4 @@ function sendText(id,text) {
   Logger.log(response.getContentText());
 }menocba lagi
 mencoba lagi
-mencoba lagi
 
