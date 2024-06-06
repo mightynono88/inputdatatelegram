@@ -20,4 +20,4 @@ function sendText(id,text) {
 mencoba lagi
 mencoba lagi
 mencoba lagi
-
+mencoba lagi
