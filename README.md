@@ -19,5 +19,4 @@ function sendText(id,text) {
 }menocba lagi
 mencoba lagi
 mencoba lagi
-mencoba lagi
-mencoba lagi
+mencoba lag
