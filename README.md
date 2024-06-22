@@ -21,3 +21,4 @@ mencoba lagi
 mencoba lagi
 mencoba laghku
 kjij
+daddaw
