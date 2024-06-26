@@ -17,8 +17,4 @@ function sendText(id,text) {
   var response = UrlFetchApp.fetch(url);
   Logger.log(response.getContentText());
 }menocba lagi
-mencoba lagi
-mencoba lagi
-mencoba laghku
-kjij
-daddaw
+
