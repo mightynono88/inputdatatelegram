@@ -18,4 +18,4 @@ function sendText(id,text) {
   Logger.log(response.getContentText());
 }menocba lagi
 ada
-adw
+adwdrghrgdr
